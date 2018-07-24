@@ -22,5 +22,5 @@ Complete.
 ## How to run it?
 
 ```
-Open Charts Responsive-Nav.html file.
+Open Responsive-Nav.html file.
 ```
